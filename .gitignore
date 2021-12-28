@@ -30,3 +30,15 @@
 *.exe
 *.out
 *.app
+
+# Tecplot
+*.plt
+*.lay
+
+# Matlab
+*.mlx
+*.txt
+*.tmp
+
+# Word
+*.docx
